@@ -1,0 +1,6 @@
+$wallpaper_path = /home/admin/Themes_wall/green.webp
+$lock_color_1 = 005b5b
+$lock_color_2 = ffffc1
+
+$active_border = 0xff6eb47d
+$inactive_border = 0xff0f2421
