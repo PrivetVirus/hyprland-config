@@ -1,8 +1,20 @@
-# Hyprland Config - v4.1 (Current)
+# Hyprland Config - v4.2 (Current)
 
 This repository contains my personal Hyprland configuration.
 
-## What's New in v4.1 (Latest Update)
+## What's New in v4.2 (Latest Update)
+
+The v4.2 update focuses on reliability improvements for the Magic Pocket workflow.
+
+### 🌟 Key Changes & Improvements
+
+1. **Bulletproof Magic Pocket Scripts**
+   - Replaced external `jq` dependencies with built-in Python parsing in `magic_pocket.sh` and `super_magic_toggle.sh`. 
+   - This ensures that 5th mouse button window toggling works flawlessly out-of-the-box on any Linux distribution without requiring extra packages.
+
+---
+
+## What's New in v4.1
 
 The v4.1 update focuses on a workflow enhancement for taking and annotating screenshots on the fly. 
 
