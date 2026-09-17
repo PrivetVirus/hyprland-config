@@ -1,8 +1,20 @@
-# Hyprland Config - v4 (Current)
+# Hyprland Config - v4.1 (Current)
 
 This repository contains my personal Hyprland configuration.
 
-## What's New in v4 (Latest Update)
+## What's New in v4.1 (Latest Update)
+
+The v4.1 update focuses on a workflow enhancement for taking and annotating screenshots on the fly. 
+
+### 🌟 Key Changes & Improvements
+
+1. **Advanced Screenshot & Annotation Workflow**
+   - Replaced the simple `hyprshot` utility with a powerful combination of `grim`, `slurp`, and `swappy`.
+   - Pressing ⌨️ `SUPER + SHIFT + S` now allows selecting an area of the screen and instantly opens the capture in the **Swappy** editor, where arrows, text, and blurs can be immediately applied before saving or copying to the clipboard.
+
+---
+
+## What's New in v4.0
 
 The fourth iteration introduces a major UI overhaul, replacing traditional status bars with a highly dynamic, QML-based modular shell, alongside seamless isolated VPN bypassing for music streaming.
 
